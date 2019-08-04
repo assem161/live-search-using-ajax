@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'tabFont';
+  src: url('../../fonts/Font/Alharbi Alhanoof Font.ttf') format('truetype'),
+       url('../../fonts/Font/Alharbi Alhanoof Font.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
